@@ -1,3 +1,35 @@
 nav.navbar.navbar-default {
   margin-bottom: 0;
+
 }
+.left {
+  padding-left: 100px;
+}
+.right {
+  list-style: none;
+  float: right;
+  padding-left: 300px;
+  width: 100%;
+  display: flex;
+
+
+}
+.navbar-brand {
+  margin: 0 auto;
+  color:#9d8189;
+
+
+  padding-left: 500px;
+}
+.navbar-full{
+height: 100px;
+color: #9d8189;
+background-color: #ffcad4;
+}
+
+
+/* $alabaster: #d8e2dcff;
+$champagne-pink: #ffe5d9ff;
+$pink: #ffcad4ff;
+$light-pink: #f4acb7ff;
+$mountbatten-pink: #9d8189ff; */
